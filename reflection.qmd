@@ -1,26 +1,19 @@
-
----
-
-## 5) `reflection.qmd` (Reflection page)
-```markdown
 ---
 title: "Reflection"
 ---
 
-# Reflection on using GenAI
+# Reflection
 
 ## How I used GenAI
-I used GenAI to help me understand the lab instructions and structure the Quarto website files.
+I used ChatGPT to troubleshoot a GitHub authentication issue on my laptop. My local Git was linked to a different GitHub account, so I kept getting a “permission denied” error when pushing.
 
-## What GenAI was good at
-- Explaining steps clearly
-- Helping me debug Git/GitHub issues
-- Generating starter templates for Quarto pages
+## What ChatGPT helped me do
+ChatGPT guided me to:
+- check the remote repository URL (`git remote -v`)
+- clear cached credentials in my computer
+- push again
 
-## Limitations / what I still had to do myself
-- I still needed to set up my own GitHub repo properly
-- I had to verify outputs by rendering and checking the result
-- I needed to write my own real project content
+Without fixing this, I would not have been able to push my Quarto website to GitHub.Therefore I needed help from chatgpt. 
 
 ## What I learned
-I learned how Quarto renders `.qmd` files into a website and how the `docs/` output folder is used for GitHub Pages.
+how to solve issues like this. how to check credentials. how to create this project. 

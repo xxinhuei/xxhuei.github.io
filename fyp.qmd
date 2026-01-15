@@ -3,11 +3,16 @@ title: "FYP Project"
 ---
 
 # My FYP Project
+This is the project 
 
 ## Project overview
-this is something i have done
+This is something I have done. 
+
+## Project demo video
+Just a random video I found on youtube:
+{{< video https://www.youtube.com/watch?v=ko70cExuzZM&list=RDko70cExuzZM&start_radio=1 width="700" height="400" >}}
 
 
 ## Target users
-me and u
+Everyone who is interested 
 

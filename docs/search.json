@@ -12,5 +12,89 @@
     "title": "Home",
     "section": "",
     "text": "This site contains: - everything about this project and me"
+  },
+  {
+    "objectID": "reflection.html#reflection.qmd-reflection-page",
+    "href": "reflection.html#reflection.qmd-reflection-page",
+    "title": "My Quarto Website",
+    "section": "5) reflection.qmd (Reflection page)",
+    "text": "5) reflection.qmd (Reflection page)"
+  },
+  {
+    "objectID": "reflection.html#markdown",
+    "href": "reflection.html#markdown",
+    "title": "My Quarto Website",
+    "section": "```markdown",
+    "text": "```markdown"
+  },
+  {
+    "objectID": "reflection.html#title-reflection",
+    "href": "reflection.html#title-reflection",
+    "title": "My Quarto Website",
+    "section": "title: “Reflection”",
+    "text": "title: “Reflection”\ni"
+  },
+  {
+    "objectID": "fyp.html",
+    "href": "fyp.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This is the project\n\n\nThis is something I have done.\n\n\n\nJust a random video I found on youtube: \n\n\n\nEveryone who is interested"
+  },
+  {
+    "objectID": "fyp.html#project-overview",
+    "href": "fyp.html#project-overview",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This is something I have done."
+  },
+  {
+    "objectID": "fyp.html#target-users",
+    "href": "fyp.html#target-users",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Everyone who is interested"
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Data Visualization\nThis page shows a simple plot using numerical data."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "I used ChatGPT to troubleshoot a GitHub authentication issue on my laptop. My local Git was linked to a different GitHub account, so I kept getting a “permission denied” error when pushing.\n\n\n\nChatGPT guided me to: - check the remote repository URL (git remote -v) - clear cached credentials stored on my computer - authenticate correctly (via browser / token) so I could push to the correct GitHub account\nWithout fixing this, I would not have been able to push my Quarto website to GitHub.\n\n\n\nI learned that being “logged in” in an app is not the same as Git authentication. Git uses stored credentials and the remote URL, so verifying both is important when push fails."
+  },
+  {
+    "objectID": "reflection.html#how-i-used-genai",
+    "href": "reflection.html#how-i-used-genai",
+    "title": "Reflection",
+    "section": "",
+    "text": "I used ChatGPT to troubleshoot a GitHub authentication issue on my laptop. My local Git was linked to a different GitHub account, so I kept getting a “permission denied” error when pushing."
+  },
+  {
+    "objectID": "reflection.html#what-chatgpt-helped-me-do",
+    "href": "reflection.html#what-chatgpt-helped-me-do",
+    "title": "Reflection",
+    "section": "",
+    "text": "ChatGPT guided me to: - check the remote repository URL (git remote -v) - clear cached credentials stored on my computer - authenticate correctly (via browser / token) so I could push to the correct GitHub account\nWithout fixing this, I would not have been able to push my Quarto website to GitHub."
+  },
+  {
+    "objectID": "reflection.html#what-i-learned",
+    "href": "reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "",
+    "text": "I learned that being “logged in” in an app is not the same as Git authentication. Git uses stored credentials and the remote URL, so verifying both is important when push fails."
+  },
+  {
+    "objectID": "fyp.html#project-demo-video",
+    "href": "fyp.html#project-demo-video",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Just a random video I found on youtube:"
   }
 ]

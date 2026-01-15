@@ -10,7 +10,6 @@ Hi! This is my Quarto website for Week 02.
 This site contains:
 - everything about this project and me 
 
-## Me
+## Me:)
 
-
-[](images/Xinhuei_idPhoto.jpg){width=250} 
+![](images/Xinhuei_idPhoto.jpg){width=250} 
