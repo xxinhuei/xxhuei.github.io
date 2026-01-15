@@ -4,4 +4,13 @@ title: "Home"
 
 # Welcome
 
-This is my Quarto website.
+Hi! This is my Quarto website for Week 02.
+
+## About this website
+This site contains:
+- everything about this project and me 
+
+## Me
+
+
+[](images/Xinhuei_idPhoto.jpg){width=250} 

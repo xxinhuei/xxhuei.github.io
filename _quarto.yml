@@ -1,3 +1,22 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "My Quarto Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fyp.qmd
+        text: FYP Project
+      - href: dataviz.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true

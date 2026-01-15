@@ -1,0 +1,13 @@
+---
+title: "Data Visualization"
+---
+
+# Data Visualization
+
+This page shows a simple plot using numerical data.
+
+```{r}
+plot(mtcars$wt, mtcars$mpg,
+     xlab = "Car weight (1000 lbs)",
+     ylab = "Miles per gallon (mpg)",
+     main = "Heavier cars tend to have lower fuel efficiency")

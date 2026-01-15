@@ -1,0 +1,26 @@
+
+---
+
+## 5) `reflection.qmd` (Reflection page)
+```markdown
+---
+title: "Reflection"
+---
+
+# Reflection on using GenAI
+
+## How I used GenAI
+I used GenAI to help me understand the lab instructions and structure the Quarto website files.
+
+## What GenAI was good at
+- Explaining steps clearly
+- Helping me debug Git/GitHub issues
+- Generating starter templates for Quarto pages
+
+## Limitations / what I still had to do myself
+- I still needed to set up my own GitHub repo properly
+- I had to verify outputs by rendering and checking the result
+- I needed to write my own real project content
+
+## What I learned
+I learned how Quarto renders `.qmd` files into a website and how the `docs/` output folder is used for GitHub Pages.
